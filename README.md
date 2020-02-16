@@ -1,5 +1,5 @@
 # SA-P2
-Second project of SA (Sistemas e aplicações-Systems and aplications)<br>
+Second project of SA (Sistemas e aplicações-Systems and applications)<br>
 Objective:<br>
 Development of a database and query system in MS Access<br>
 Note:<br>
